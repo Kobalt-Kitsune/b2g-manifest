@@ -9,9 +9,6 @@
   
   <remote  name="pershoot"
            fetch="https://github.com/pershoot" />
-  
-  <remote  name="aosp"
-           fetch="https://android.googlesource.com/" />
 
 <!-- Stock Remotes -->
 
